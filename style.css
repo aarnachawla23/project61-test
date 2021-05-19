@@ -1,0 +1,102 @@
+body
+{
+  text-align:center;
+  background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+  background-repeat:no-repeat;
+  
+}
+ h1
+{
+  text-shadow:2px 2px #FBBD0;
+  font-size:30px;
+  color:#311B92;
+}
+  p
+{
+  font-size:23px;
+  color: #880E4F;
+ 
+}
+#bio
+{
+  padding:20px;
+  text-align:center;
+    font-size: 40px;
+    font-family: 'Itim', cursive;
+}
+img
+{
+  width:100px;
+    height: 100px;
+  border-radius:10%;
+}
+.line
+{
+  height:6px;
+  background-color:black;
+  width:70px;
+  margin:8px auto;
+}
+#name
+{
+    font-family: 'Itim', cursive;
+}
+#welcome
+{
+    padding: 70px;
+    text-align: center;
+}
+.menu
+{
+    list-style: none;
+    font-family: fantasy;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.link
+{
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+.links:hover
+{
+    background-color: beige;
+}
+#inspiration
+{
+    font-size: 29px;
+    font-family: fantasy;
+    color: floralwhite ;
+}
+.img1
+{
+    width:400px;
+    height:330px;
+}
+.img2
+{
+    width:330px;
+    height:330px;
+}
+img:hover
+{
+    transform: scale(0.9);
+}
+.link{
+    color:deeppink;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+   .link:hover{
+    background-color: aquamarine;
+}
